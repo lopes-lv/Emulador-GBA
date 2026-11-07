@@ -1,0 +1,15 @@
+# Pastas de build
+build/
+dist/
+
+# Pasta de testes
+tests/
+
+# Arquivos de IDE/editor
+.vs/
+.vscode/
+*.user
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
